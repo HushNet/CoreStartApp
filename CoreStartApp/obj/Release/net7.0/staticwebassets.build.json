@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "b5nAHWpobYA9nFzbRFAHpQfVxfqr9NQ6VVZ4xsn5nfg=",
+  "Source": "CoreStartApp",
+  "BasePath": "_content/CoreStartApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreStartApp\\wwwroot",
+      "Source": "CoreStartApp",
+      "ContentRoot": "C:\\Users\\5047449\\Documents\\RiderProjects\\CoreStartApp\\CoreStartApp\\wwwroot\\",
+      "BasePath": "_content/CoreStartApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
